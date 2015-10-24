@@ -11,7 +11,7 @@
 	</extension>
 	<extension point="xbmc.service" library="service.py" start="startup" />
 	<extension point="xbmc.addon.metadata">
-		<summary lang="en">The origins of streaming</summary>
+		<summary lang="en">Le origini dello streaming</summary>
 		<description lang="en">Visit TVADDONS.ag for support</description>
 		<disclaimer lang="en">The author does not host or distribute any of the content displayed by this addon. The author does not have any affiliation with the content provider.</disclaimer>
 		<forum>http://forums.tvaddons.ag/forums/148-lambda-s-xbmc-addons</forum>
